@@ -7,7 +7,7 @@
 
 This web application shows people who have contributed to Rust.
 
-## Setup
+## Setup Environment
 
 You need stable Rust to run Thanks.
 
